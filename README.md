@@ -1,4 +1,4 @@
-# GS_EDGE
+# Global Solution Edge
 Este projeto foi desenvolvido em parceria com a HapVida, com o objetivo de criar uma solução inovadora e acessível para monitorar indicadores vitais de saúde, como a temperatura corporal e a frequência cardíaca. Utilizando tecnologias IoT (Internet das Coisas), o sistema coleta dados em tempo real e os envia para uma plataforma de monitoramento, permitindo que os usuários ou profissionais de saúde acompanhem essas métricas de forma contínua. Este sistema tem o potencial de impactar significativamente o bem-estar dos indivíduos, permitindo uma resposta rápida a possíveis condições adversas de saúde e promovendo um estilo de vida saudável.
 
 Impacto na Saúde
