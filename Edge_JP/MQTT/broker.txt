@@ -1,0 +1,4 @@
+https://www.hivemq.com/demos/websocket-client/
+
+fiap/iot/heartrate
+fiap/iot/temperature
