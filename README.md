@@ -36,6 +36,6 @@ https://youtu.be/8oxiVT8Uddk?si=IoMSMJ7kJXiK_sU2
 ## Link para a simulação do projeto no Wokwi
 https://wokwi.com/projects/381965574176880641
 
-#RM98650 - JOÃO PEDRO CRUZ
-#RM551169 - TIAGO PAULINO
+## RM98650 - JOÃO PEDRO CRUZ
+## RM551169 - TIAGO PAULINO
 
